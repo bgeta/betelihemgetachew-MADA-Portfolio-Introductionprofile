@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+## About me
+
+I am a public health professional with years of experience working on Tobacco Control both nationally and Globally. I am currently pursuing my DrPH and preparing to write my dissertation. I am hopeful this course will help me get organized and support my data analysis skill for my dissertation and beyond.
+
+This is my first time diving into R. My past experiences has been a little bit of SAS, SPSS and STATA all at different points in my career. GitHub, Quarto, Gitkraken are all new to me and I cant say I am not intimidated.
+
+In my quest to understand this very first module, I found a youtube video that was very useful to me, hope it can be useful to you too!
+
+[Websites, books and blogs with Quarto](https://www.youtube.com/watch?v=A9QRN4cpsDY)
+
+```{r}
+1 + 1
+```
